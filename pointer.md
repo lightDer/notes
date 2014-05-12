@@ -9,11 +9,13 @@
 
 `&` 符號也是有兩個意思
 * 在定義時代表這個變數為某個變數的 reference (參照、別名)，和 pointer 不同的地方為，reference 總是指向某個物件，在定義時就要給初值
-  e.g 
-  ```
-  int pi = 3.14;
-  int &rpi = pi;
-  ```
+
+e.g 
+```c++
+int pi = 3.14;
+int &rpi = pi;
+```
+
 * 在 = 號右邊時，代表 address-of(取址) 運算子，把變數的記憶體位置取出
 
 ## swap func.
