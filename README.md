@@ -1,8 +1,4 @@
 notes
 =====
-1. this is my test notes
-2. sync with dropbox
+Just for notes
 
-    xxx | xxx
-    --- | ---
-    1 | 2
