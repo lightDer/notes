@@ -1,4 +1,4 @@
 notes
 =====
-Just for notes
+Just for note
 
